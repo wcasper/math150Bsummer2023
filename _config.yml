@@ -52,9 +52,9 @@ minima:
 header_pages:
  - about.md
  - extras/syllabus.md
- - extras/calendar.md
- - homework-list.md
- - worksheet-list.md
+# - extras/calendar.md
+# - homework-list.md
+# - worksheet-list.md
  - exams-list.md
 
 # Build settings
@@ -69,11 +69,11 @@ plugins:
 collections:
   topics:
     output: true
-  homework:
-    output: true
+#  homework:
+#    output: true
   exams:
     output: true
-  worksheets:
-    output: true
+#  worksheets:
+#    output: true
 
 
