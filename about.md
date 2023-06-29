@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the course website for a freshman-level course in computational linear algebra.
+This is the course website for Calculus II.
 
