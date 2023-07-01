@@ -90,8 +90,8 @@ If you have an accommodation from Disability Support Services (such as time-and-
 There will be two midterm exams, each lasting 1 hour and 50 minutes.
 Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time on the following dates:
-* Wednesday, March 1, 2023
-* Wednesday, April 12, 2023
+* Friday, July 14, 2023
+* Friday, July 28, 2023
 
 **Final Exam**
 There will be a Final Exam, which will take place during class on the last day.
