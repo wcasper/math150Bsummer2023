@@ -31,7 +31,7 @@ Math 150A with a "C" (2.0) or better.
 ### Grading scheme
 
 * Homework: 25%
-* Quizzes/Lecturee Assessments: 15%
+* Quizzes: 15%
 * Midterm Exams: 2 at 15% each
 * Final Exam: 30%
 
@@ -71,8 +71,7 @@ Attendance and class participation are important components for success in this 
 **Quizzes and Assigned Readings**
 You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
 
-Lecture assessments and quizzes will be provided through Canvas.
-Students will be responsible for completing a lecture assessment of the previous lecture, due the night before the next lecture.
+Periodic quizzes will be provided through Webassign.
 
 **Homework**
 Homework assignments will feature both computational and analytic components.  For the former, the MATLAB code, all image files, any required screenshots, and any necessary written solutions for each assignment will need to be submitted through the course website on Canvas.
