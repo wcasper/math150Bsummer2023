@@ -14,6 +14,6 @@ title:  Lecture 3
 
 ## Additional resources
 
-* <a href="https://wcasper.github.io/math150Bsummer2023/extras/lecture3.pdf">lecture notes</a>
+* <a href="https://wcasper.github.io/math150Bsummer2023/extras/lecture3notes.pdf">lecture notes</a>
 
 

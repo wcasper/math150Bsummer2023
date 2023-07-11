@@ -15,6 +15,6 @@ title:  Lecture 1
 
 ## Additional resources
 
-* <a href="https://wcasper.github.io/math150Bsummer2023/extras/lecture1.pdf">lecture notes</a>
+* <a href="https://wcasper.github.io/math150Bsummer2023/extras/lecture1notes.pdf">lecture notes</a>
 
 

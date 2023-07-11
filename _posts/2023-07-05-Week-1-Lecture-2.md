@@ -13,6 +13,6 @@ title:  Lecture 2
 
 ## Additional resources
 
-* <a href="https://wcasper.github.io/math150Bsummer2023/extras/lecture2.pdf">lecture notes</a>
+* <a href="https://wcasper.github.io/math150Bsummer2023/extras/lecture2notes.pdf">lecture notes</a>
 
 
