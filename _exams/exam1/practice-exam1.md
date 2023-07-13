@@ -20,7 +20,7 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 Consider a tank of the shape featured in the image below.
 The density of water is $$62.5\ \text{lb}/\text{ft}^3$$.
 
-<p align="center"><img src="tank.png"/></p>
+<p align="center"><img src="exam1/tank.png"/></p>
 
 * (a) Set up the work required to drain the tank through the pipe at the top.
 
