@@ -39,12 +39,12 @@ $$r(y) = 3 + \frac{3}{8}y.$$
 
 The work required is therefore
 
-$$W = 62.5\int_0^8 \pi (8-y)\left(3 + \frac{3}{8}y\right)^2 dy$$
+$$W = 62.5\int_0^8 (8-y)\pi \left(3 + \frac{3}{8}y\right)^2 dy$$
 
 
 * (b) Evaluate the total work required.  Make sure to specify your units.
 
-$$62.5\cdot 528$$
+$$62.5\cdot 528\pi$$
 
 
 ## Problem 3
