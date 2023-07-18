@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exams
+title: Quizzes
 permalink: /quizzes/quizzes
 ---
 
