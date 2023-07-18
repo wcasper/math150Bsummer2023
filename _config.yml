@@ -71,9 +71,9 @@ collections:
     output: true
 #  homework:
 #    output: true
+  quizzes:
+    output: true
   exams:
     output: true
-#  worksheets:
-#    output: true
 
 
