@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+\usepackage{color,fancyhdr,ifthen,amssymb,amsfonts,amsmath,enumerate}
+\pagestyle{fancy}
+\setlength{\topmargin}{-.5in}
+\setlength{\textheight}{9in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\headwidth}{\textwidth}
+\parindent=0in
+\newcounter{questionNumber}
+\setcounter{questionNumber}{1}
+\newcommand{\headandfoot}[3]{\lhead{#1}\chead{#2}\rhead{\ifthenelse{\isodd{\thepage}}{Dr.~Casper {\hspace{.25in}}}{}}
+\lfoot{}\cfoot{\thepage}\rfoot{#3}}
+\linespread{1.75}
+\newcommand{\question}[6]{\noindent\thequestionNumber.\quad #1\\[.1in]
+(a) #2 \\
+(b) #3 \\
+(c) #4 \\
+(d) #5 \\
+(e) #6
+\vspace{.25in}\addtocounter{questionNumber}{1}}
+\headandfoot{Calculus II}{Quiz 3}{}
+\begin{document}
+
+\begin{enumerate}[\textbf{Problem} 1.]
+\item
+Suppose that we have a function $f(x)$ whose values are given by the following table.
+
+\begin{center}
+\begin{tabular}{c|c|c|c|c|c|c}
+$x$ & $0.0$ & $0.2$ & $0.4$ & $0.6$ & $0.8$ & $1.0$\\\hline
+$f(x)$ & $1.0$ & $0.9$ & $0.7$ & $0.9$ & $1.0$ & $1.2$
+\end{tabular}
+\end{center}
+
+Use Simpson's Rule to approximate the value of $\int_0^1 f(x)dx$ with $n=2$.
+\vspace{3in}
+\item
+Determine the value of the integral if it exists or else write DIVERGENT.
+$$\int_0^1 \frac{1}{\sqrt{x}}dx$$
+\end{enumerate}
+
+\end{document}
+
