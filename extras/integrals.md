@@ -28,5 +28,5 @@ There will be **no partial credit**.
 17. $$\ln(1+\sqrt{x})$$
 18. $$x\left(\frac{1-x^2}{1+x^2}\right)^{1/2}$$
 19. $$e^x\sin(e^x)$$
-20. $$\frac{1}{2+2\sin(\theta) + \cos(\theta)$$
+20. $$\frac{1}{2+2\sin(\theta) + \cos(\theta)}$$
 
