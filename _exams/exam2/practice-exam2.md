@@ -28,8 +28,8 @@ $$y' = e^{y-t}\sec(y),\ \ y(0) = 0.$$
 Consider the following set of parametric equations
 
 $$\left\lbrace\begin{array}{c}
-x(t) &= \csc(t)\\
-y(t) &= \cot(t)\\
+x(t) = \csc(t)\\
+y(t) = \cot(t)\\
 \end{array}\right.,\quad 0\leq t\leq \pi$$
 
 * (a) Create a plot of the parametric curve above.
