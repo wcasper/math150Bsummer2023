@@ -1,0 +1,48 @@
+\documentclass[12pt]{article}
+\usepackage{color,fancyhdr,ifthen,amssymb,amsfonts,amsmath,enumerate}
+\pagestyle{fancy}
+\setlength{\topmargin}{-.5in}
+\setlength{\textheight}{9in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\headwidth}{\textwidth}
+\parindent=0in
+\newcounter{questionNumber}
+\setcounter{questionNumber}{1}
+\newcommand{\headandfoot}[3]{\lhead{#1}\chead{#2}\rhead{\ifthenelse{\isodd{\thepage}}{Dr.~Casper {\hspace{.25in}}}{}}
+\lfoot{}\cfoot{\thepage}\rfoot{#3}}
+\linespread{1.75}
+\newcommand{\question}[6]{\noindent\thequestionNumber.\quad #1\\[.1in]
+(a) #2 \\
+(b) #3 \\
+(c) #4 \\
+(d) #5 \\
+(e) #6
+\vspace{.25in}\addtocounter{questionNumber}{1}}
+\headandfoot{Calculus II}{Quiz 6}{}
+\begin{document}
+Consider the parametric equation
+
+$$\left\lbrace\begin{array}{c}
+x(t) = e^t\cos(t)\\
+y(t) = e^t\sin(t)
+\end{array}\right.,\quad 0\leq t\leq \pi.$$
+
+\begin{enumerate}[\textbf{Problem} 1.]
+\item
+Sketch a graph of the curve.
+
+\vspace{2.5in}
+\item
+Find the slope of the tangent line to the curve at $t = \pi/2$.
+\vspace{2in}
+
+\item
+Find the exact length of the curve.
+
+\end{enumerate}
+
+
+\end{document}
+
