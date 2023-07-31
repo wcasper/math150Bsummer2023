@@ -17,6 +17,8 @@ permalink: /quizzes/quizzes
 * <a target="_parent" href="quiz6-soln.pdf">Quiz 6 Solutions (link)</a>
 * <a target="_parent" href="quiz7.pdf">Quiz 7 (link)</a>
 * <a target="_parent" href="quiz7-soln.pdf">Quiz 7 Solutions (link)</a>
+* <a target="_parent" href="quiz8.pdf">Quiz 8 (link)</a>
+* <a target="_parent" href="quiz8-soln.pdf">Quiz 8 Solutions (link)</a>
 
 
 
