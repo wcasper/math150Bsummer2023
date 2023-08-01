@@ -17,7 +17,7 @@ Consider the region of the plane bounded by the curves $$y=0$$, $$y=x^2+1$$, $$x
 
 * (b) Set up, but do not evaluate an integral representing the volume of the solid of revolution obtained by rotating the region around the line $$y=2$$.
 
-* (b) Set up, but do not evaluate an integral representing the volume of the solid of revolution obtained by rotating the region around the line $$x=1$$ using the Shell Method.
+* (c) Set up, but do not evaluate an integral representing the volume of the solid of revolution obtained by rotating the region around the line $$x=1$$ using the Shell Method.
 
 ## Problem 2
 
