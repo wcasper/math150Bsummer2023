@@ -81,6 +81,6 @@ $$\sum_{n=1}^\infty (-1)^n\frac{x^n}{n^25^n}.$$
 
 ## Problem 10
 
-* (a) Calculate the Taylor polynomial $$T_8(x)$$ of the function $$f(x)=\sin(x^2)$$ based at $$x=0$$.
+* (a) Calculate the Taylor polynomial $$T_8(x)$$ of the function $$f(x)=\sin(2x)$$ based at $$x=0$$.
 
 * (b) Use Taylor's Estimate to bound the error $$\lvert T_8(x)-f(x)\rvert $$ in the interval $$[-0.1,0.1]$$.
