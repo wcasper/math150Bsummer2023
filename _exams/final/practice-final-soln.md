@@ -19,7 +19,7 @@ $$\int_0^1 \pi (x^2+1)^2dx$$
 
 * (b) Set up, but do not evaluate an integral representing the volume of the solid of revolution obtained by rotating the region around the line $$y=2$$.
 
-$$\int_0^1 \pi [2^2-(x^2+1)^2]dx$$
+$$\int_0^1 \pi [(2-0)^2-(2-(x^2+1))^2]dx$$
 
 * (c) Set up, but do not evaluate an integral representing the volume of the solid of revolution obtained by rotating the region around the line $$x=1$$ using the Shell Method.
 
