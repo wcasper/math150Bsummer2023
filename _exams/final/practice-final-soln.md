@@ -86,7 +86,7 @@ so we should sum $$n=23$$ terms.
 
 ## Problem 7
 
-Determine if each of the following series are absolutely convergent, continuously convergent, or divergent.
+Determine if each of the following series are absolutely convergent, conditionally convergent, or divergent.
 
 * (a) $$\sum_{n=1}^\infty \frac{n+4^n}{n^2+6^n}$$
 
@@ -105,7 +105,7 @@ The test for divergence implies that the series diverges.
 
 ## Problem 8
 
-Determine if each of the following series are absolutely convergent, continuously convergent, or divergent.
+Determine if each of the following series are absolutely convergent, conditionally convergent, or divergent.
 
 * (a) $$\sum_{n=1}^\infty \frac{n+5}{\sqrt[3]{n^7+n^2}}$$
 

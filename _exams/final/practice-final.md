@@ -57,7 +57,7 @@ Determine carefully the limit of each of the following sequences.
 
 ## Problem 7
 
-Determine if each of the following series are absolutely convergent, continuously convergent, or divergent.
+Determine if each of the following series are absolutely convergent, conditionally convergent, or divergent.
 
 * (a) $$\sum_{n=1}^\infty \frac{n+4^n}{n^2+6^n}$$
 
@@ -65,7 +65,7 @@ Determine if each of the following series are absolutely convergent, continuousl
 
 ## Problem 8
 
-Determine if each of the following series are absolutely convergent, continuously convergent, or divergent.
+Determine if each of the following series are absolutely convergent, conditionally convergent, or divergent.
 
 * (a) $$\sum_{n=1}^\infty \frac{n+5}{\sqrt[3]{n^7+n^2}}$$
 
@@ -84,3 +84,5 @@ $$\sum_{n=1}^\infty (-1)^n\frac{x^n}{n^25^n}.$$
 * (a) Calculate the Taylor polynomial $$T_8(x)$$ of the function $$f(x)=\sin(2x)$$ based at $$x=0$$.
 
 * (b) Use Taylor's Estimate to bound the error $$\lvert T_8(x)-f(x)\rvert $$ in the interval $$[-0.1,0.1]$$.
+
+
