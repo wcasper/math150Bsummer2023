@@ -27,6 +27,42 @@ Math 150A with a "C" (2.0) or better.
 1. *Calculus: Early Transcendentals 9E* by James Stewart
 2. Cengage subscription for Webassign
 
+
+### Rough timeline
+
+* 6.1 Homework - Areas Between Curves	7-5-23 11:59 PM PDT
+* 6.2 Homework - Volumes	7-6-23 11:58 PM PDT
+* 6.3 Homework - Volumes, Cylindrical Shells	7-6-23 11:58 PM PDT
+* 6.5 Homework - Average Value of a Function	7-9-23 11:58 PM PDT
+* 6.4 Homework - Work	7-9-23 11:58 PM PDT
+* 7.1 Homework - Integration by Parts	7-10-23 11:58 PM PDT
+* 7.3 Homework - Trig Substitution	7-11-23 11:58 PM PDT
+* 7.2 Homework - Trig Integrals	7-11-23 11:58 PM PDT
+* 7.4 Homework - Integration, Partial Fractions	7-12-23 11:58 PM PDT
+* 7.5 Homework - Strategy for Integration	7-13-23 11:58 PM PDT
+* 7.7 Homework - Approximate Integration	7-17-23 11:58 PM PDT
+* 7.8 Homework - Improper Integrals 7-17-23 11:58 PM PDT
+* 8.1 Homework - Arc Length	7-18-23 11:58 PM PDT
+* 8.2 Homework -- Surface Area	7-18-23 11:59 PM PDT
+* 8.5 Homework - Probability	7-19-23 11:58 PM PDT
+* 9.1 Homework - Modeling, Differential Equations	7-19-23 11:58 PM PDT
+* 9.3 Homework - Separable Equations	7-20-23 11:58 PM PDT
+* 10.1 Homework - Curves, Parametric Equations	7-23-23 11:58 PM PDT
+* 10.3 Homework - Polar Coordinates	7-23-23 11:58 PM PDT
+* 10.2 Homework - Parametric Curves, Calculus	7-23-23 11:58 PM PDT
+* 10.4 Homework - Calculus in Polar Coordinates	7-24-23 11:58 PM PDT
+* 11.1 Homework - Sequences	7-25-23 11:58 PM PDT
+* 11.3 Homework - Integral Test, Estimates of Sums	7-26-23 11:58 PM PDT
+* 11.2 Homework - Series	7-26-23 11:58 PM PDT
+* 11.4 Homework - Comparison Tests	7-30-23 11:58 PM PDT
+* 11.5 Homework - Alternating Series, Convergence	7-30-23 11:58 PM PDT
+* 11.6 Homework - Ratio and Root Tests	7-31-23 11:58 PM PDT
+* 11.7 Homework - Strategy for Testing Series	7-31-23 11:58 PM PDT
+* 11.8 Homework - Power Series	8-1-23 11:58 PM PDT
+* 11.9 Homework - Functions as Power Series	8-1-23 11:58 PM PDT
+* 11.10 Homework - Taylor and Maclaurin Series	8-2-23 11:58 PM PDT
+* 11.11 Homework - Taylor Polynomials	8-3-23 11:58 PM PDT
+
 ## Grading
 ### Grading scheme
 
@@ -71,14 +107,10 @@ Attendance and class participation are important components for success in this 
 **Quizzes and Assigned Readings**
 You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
 
-Periodic quizzes will be provided through Webassign.
+Periodic quizzes will be provided through Canvas and Webassign.
 
 **Homework**
-Homework assignments will feature both computational and analytic components.  For the former, the MATLAB code, all image files, any required screenshots, and any necessary written solutions for each assignment will need to be submitted through the course website on Canvas.
-For the latter, you will need to provide a written solution which will be uploaded with any relevant code as a PDF document.  Three possible ways of accomplishing this include
-* typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
-* writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
-* using some other word processor such as Microsoft Word to create the document and then export it as a PDF
+Homework assignments will feature both written and Webassign components.
 
 ## Exams
 Exams will take place during class at the times stated below.  
